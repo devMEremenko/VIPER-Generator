@@ -20,8 +20,6 @@ DerivedData
 *.gcda
 .DS_Store
 
-#markdown files
-*.md
 *.mlmodel
 fastlane/report.xml
 
